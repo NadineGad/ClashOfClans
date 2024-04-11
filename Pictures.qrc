@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>ArcherTower.png</file>
+        <file>ClanCastle.png</file>
+        <file>EmptyLand.png</file>
+    </qresource>
+</RCC>
