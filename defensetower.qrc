@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ArcherTower.png</file>
+        <file>Arrow.png</file>
+    </qresource>
+</RCC>
